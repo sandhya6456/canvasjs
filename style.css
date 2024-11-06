@@ -1,0 +1,35 @@
+canvas {
+    border: 4px solid rgb(0, 0, 0);
+    margin-left: 290px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    font: weight 900px;;
+    padding-top: 20px; 
+}
+#resetbutton {
+    background-color:white;
+    border: 3px solid black;
+    color:3px solid black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 970px;
+    margin-top: 20px;
+    box-shadow: 4px 4px 0px black;
+}
+
+#resetbutton:hover {
+    background-color: rgb(235, 41, 41);
+}
